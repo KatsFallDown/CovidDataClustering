@@ -1,0 +1,6 @@
+#This project was written for an internship.  
+#Its purpose is to analyze the kmeans and cmeans algorithms and compare them.  
+#The use of machine learning was part of the assignment, although in a real situation data clustering is not required
+
+clustering.ipynb  - google colab project
+us-counties.csv   - COVID data 
