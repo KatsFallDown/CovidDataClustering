@@ -1,6 +1,6 @@
 **This work is a project to study clustering algorithms.**
 
-The paper discusses the k-means and b-means algorithms. 
+The paper discusses the k-means and c-means algorithms. 
 These algorithms are similar to each other, but have differences. The result of the project can be called a comparison of algorithms
 
 ## Results:
